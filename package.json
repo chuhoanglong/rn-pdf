@@ -1,5 +1,5 @@
 {
-    "name": "rn-pdf",
+    "name": "@chuhoanglong/rn-pdf",
     "version": "1.0.0",
     "summary": "A react native PDF view component",
     "description": "A react native PDF view component, support ios and android platform",
