@@ -1,13 +1,13 @@
 {
-    "name": "@chuhoanglong/rn-pdf",
-    "version": "1.0.0",
+    "name": "rn-pdf",
+    "version": "1.0.1",
     "summary": "A react native PDF view component",
     "description": "A react native PDF view component, support ios and android platform",
     "main": "index.js",
     "typings": "./index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-pdf.git"
+        "url": "git+https://github.com/chuhoanglong/rn-pdf"
     },
     "keywords": [
         "react-component",
